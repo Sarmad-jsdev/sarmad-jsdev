@@ -35,7 +35,7 @@ Currently, I’m exploring React components, API integration, and responsive des
 A responsive **Netflix homepage clone** built using **HTML, CSS, and JavaScript**.  
 This project helped me practice layout design, responsive grids, hover effects, and Bootstrap integration.
 
-🔗 [View Repository](#) *(Add your GitHub repo link once uploaded)*  
+🔗 [View Repository](#) https://github.com/Sarmad-jsdev?tab=repositories
 
 ---
 
