@@ -35,7 +35,14 @@ Currently, I’m exploring React components, API integration, and responsive des
 A responsive **Netflix homepage clone** built using **HTML, CSS, and JavaScript**.  
 This project helped me practice layout design, responsive grids, hover effects, and Bootstrap integration.
 
-🔗 [View Repository](#) https://github.com/Sarmad-jsdev?tab=repositories
+🔗 [View Website](#)  https://moviespakistanbysarmadqadeer0310.netlify.app/
+
+
+### 🎬 React Website
+A responsive **Reactjs Website** built using **HTML, CSS, Javascript, Reactjs and Tailwindcss**.  
+This project helped me practice layout design, responsive grids, hover effects, and Form intergration using web3 forms 
+
+🔗 [View Website](#) https://sarmadreactwebsite031.netlify.app/
 
 ---
 
